@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Akash Sah</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h1 align="center">Hi 👋, Hi, I'm Tarunesh Pati</h1>
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 
 # 💫 About Me:
-👋 Hi, I'm Tarunesh Pati<br>🚀 Senior AWS Cloud Engineer | Solutions Architect | DevOps Enthusiast<br>📍 Bangalore, India<br>🔹 AWS SAA | AWS DAS | Kubernetes CKA<br><br> 
+🚀 Senior AWS Cloud Engineer | Solutions Architect | DevOps Enthusiast<br>📍 Bangalore, India<br>🔹 AWS SAA | AWS DAS | Kubernetes CKA<br><br> 
 💡 What I Do<br>✅ Architect AWS solutions for high availability & security<br>✅ Optimize cloud operations for cost & performance efficiency<br>✅ Develop serverless & containerized applications
 
 
