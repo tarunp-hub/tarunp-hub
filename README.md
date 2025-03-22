@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm Tarunesh Pati<br>🚀 Senior AWS Cloud Engineer | Solutions Architect | DevOps Enthusiast<br>📍 Bangalore, India<br>🔹 AWS SAA | AWS DAS | Kubernetes CKA<br><br>💡 What I Do<br>✅ Architect AWS solutions for high availability & security<br>✅ Optimize cloud operations for cost & performance efficiency<br>✅ Develop serverless & containerized applications
+👋 Hi, I'm Tarunesh Pati<br>🚀 Senior AWS Cloud Engineer | Solutions Architect | DevOps Enthusiast<br>📍 Bangalore, India<br>🔹 AWS SAA | AWS DAS | Kubernetes CKA<br><br> <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+💡 What I Do<br>✅ Architect AWS solutions for high availability & security<br>✅ Optimize cloud operations for cost & performance efficiency<br>✅ Develop serverless & containerized applications
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 
 
